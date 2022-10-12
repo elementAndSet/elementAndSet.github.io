@@ -6,7 +6,7 @@ date:   2022-10-10 20:39:14 +0900
 <br><br>
 에페소의 마술사와 도둑들<br>
 The magician and thieves in Ephesus<br>
-<br><br>
+<br><br><br>
 `노인의 집 마당`<br>
 `An old man's yard`<br>
 <br>
@@ -14,7 +14,8 @@ The magician and thieves in Ephesus<br>
 (An old man with a white head and a twisted waist is sitting on a yard chair with a cane.)<br>
 <br><br>
 (내레이션)사람들은 나를 오직 정직한 노력으로 큰 성취를 이룬 상인으로, 부정한 행위를 멀리하고 남을 돕는데 너그러운 훌륭한 인격자로 알고 있다. 하지만 젊은 시절의 나는 돈을 모으기 위해서는 무엇이든 할 사람이었고 남에게 칼을 휘두르는 일도 망설임 없이 할 자였다. 그리고 내 첫 장사의 밑천을 얻은 방법은 도둑질이었다. 어떤 한 마술사의 집에서 도둑질을 한 것이 내 성공의 시작이었다.<br>
-(Narration)People know me as a merchant who has achieved great achievements only through honest efforts, and as a good person who is generous in helping others while avoiding dishonesty. But when I was young, I was a person who would do anything to raise money, and I would do anything without hesitation to swing a knife at others. And the way I got the foundation of my first business was stealing. The beginning of my success was stealing from a magician's house.<br><br><br>
+(Narration)People know me as a merchant who has achieved great achievements only through honest efforts, and as a good person who is generous in helping others while avoiding dishonesty. But when I was young, I was a person who would do anything to raise money, and I would do anything without hesitation to swing a knife at others. And the way I got the foundation of my first business was stealing. The beginning of my success was stealing from a magician's house.<br>
+<br><br><br>
 `에페소에 있는 마술사의 집`<br>
 `The Magician's House in Ephesus`<br>
 <br>
@@ -377,10 +378,7 @@ T2:Be sure to avoid the catastrophe of slaughter.<br>
 <br><br>
 (도둑2가 사라진다)<br>
 (Thief 2 disappears)<br>
-
-
-
-<br><br>
+<br><br><br>
 `노인의 집 마당`<br>
 `the old man's yard`<br>
 <br>
@@ -389,7 +387,6 @@ T2:Be sure to avoid the catastrophe of slaughter.<br>
 <br><br>
 (내레이션)사람들은 나를 빈손에서 시작하여 정직과 성실로 성공을 거둔 상인이고 훌륭한 인격자라고 말한다. 하지만 젊은 시절의 나는 돈을 위해서라면 범죄도 마다하지 않을 사람이었고 내 첫 장사의 밑천은 어느 마술사의 집에서 비싼 책을 도둑질하여 마련한 것이었다. 그리고 그때 거기에는 나 같은 책도둑이 또 하나 있었다. 하지만 그자는 어리석게도 오직 낡은 책 하나만을 챙겼을 뿐이었다.<br>
 (Narration)People say I'm a merchant who starts with empty hands and succeeds with honesty and sincerity, and I'm a great personality.As a young man, however, I was a man who would not mind crime for money, and the source of my first business was a theft of expensive books from a magician's house. And then there was another book thief like me. But he was foolish enough to pack only one old book.<br>
-
 <br><br><br>
 `에페소에 있는 마술사의 집`<br>
 `The Magician's House in Ephesus`<br>
@@ -411,7 +408,7 @@ M:A young man with a bright future is about to go down the wrong road. I have no
 T1:I've known all of that. But even if you don't have the money, you still have the magic books.<br>
 <br><br>
 마술사 : 마술책이라고? 그 헛된 것들을 찾는단 말인가?<br>
-M:A magic book? You're looking for those useless things?<br>
+M:Magic book? You're looking for those useless things?<br>
 <br><br>
 도둑1 : 그렇다. 그 바울이라는 자가 하는 말에 넘어간 마술사들은 책들을 다 태워버리던데 너도 그럴 것 아니냐? 재가 되기 전에 내가 챙겨야겠다.<br>
 T1:Yes, the magicians who fell for what Paul said burned all the books, wouldn't you? I'll take it before it becomes ash.<br>
