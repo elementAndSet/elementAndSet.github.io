@@ -5,7 +5,7 @@ date:   2022-10-10 20:39:14 +0900
 ---
 <br><br>
 에페소의 마술사와 도둑들<br>
-The magician and thieves in Ephesus<br>
+The magician and thieves in Ephesus(Play about Massacre of the Innocents)<br>
 <br><br><br>
 `노인의 집 마당`<br>
 `An old man's yard`<br>
@@ -21,6 +21,12 @@ The magician and thieves in Ephesus<br>
 <br>
 (마술사는 서재의 커다란 책상 앞에 앉아서 기도를 하고 있다. 도둑1은 칼을 들고 어둠 속에서 나타난다.)<br>
 (The magician is sitting in front of a large desk in the library and praying. Thief 1 appears in the dark with a sword.)<br>
+<br><br>
+마술사 : 당신은 누구인가?<br>
+Magician:Who are you?<br>
+<br><br>
+도둑1 : 누구냐고? (칼을 들어보이며) 도둑이지.<br>
+Thief1: Want to know? (showing a sword) Just Thief.<br>
 <br><br>
 마술사 : 젊은 친구가 좋지 않은 길로 들어서고 있군. 나는 돈이 없다네. 지난날 마술로 돈을 벌었지만 이제는 없지. 지금은 예수 그리스도를 알게 되었고 가졌던 돈들은 모두 교우들과 나누었기 때문이네. 자네도 나와 함께 하겠나?<br>
 M:Young man is heading down the misdeed way. I have no money. I made money from magic yesterday, but now I don't. It is because I have come to know Jesus Christ now and all the money I had was shared with the church members. Would you like to join me too?<br>
