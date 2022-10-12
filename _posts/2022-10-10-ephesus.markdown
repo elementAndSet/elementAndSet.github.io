@@ -9,13 +9,15 @@ The magician and thieves in Ephesus<br>
 <br><br>
 `노인의 집 마당`<br>
 `An old man's yard`<br>
-<br><br>
+<br>
 (머리가 하얗고 허리가 다 꼬부라진 노인이 지팡이를 짚고 마당 의자에 앉아있다.)<br>
 (An old man with a white head and a twisted waist is sitting on a yard chair with a cane.)<br>
 <br><br>
 (내레이션)사람들은 나를 오직 정직한 노력으로 큰 성취를 이룬 상인으로, 부정한 행위를 멀리하고 남을 돕는데 너그러운 훌륭한 인격자로 알고 있다. 하지만 젊은 시절의 나는 돈을 모으기 위해서는 무엇이든 할 사람이었고 남에게 칼을 휘두르는 일도 망설임 없이 할 자였다. 그리고 내 첫 장사의 밑천을 얻은 방법은 도둑질이었다. 어떤 한 마술사의 집에서 도둑질을 한 것이 내 성공의 시작이었다.<br>
-(Narration)People know me as a merchant who has achieved great achievements only through honest efforts, and as a good person who is generous in helping others while avoiding dishonesty. But when I was young, I was a person who would do anything to raise money, and I would do anything without hesitation to swing a knife at others. And the way I got the foundation of my first business was stealing. The beginning of my success was stealing from a magician's house.<br>
-<br><br>
+(Narration)People know me as a merchant who has achieved great achievements only through honest efforts, and as a good person who is generous in helping others while avoiding dishonesty. But when I was young, I was a person who would do anything to raise money, and I would do anything without hesitation to swing a knife at others. And the way I got the foundation of my first business was stealing. The beginning of my success was stealing from a magician's house.<br><br><br>
+`에페소에 있는 마술사의 집`<br>
+`The Magician's House in Ephesus`<br>
+<br>
 (마술사는 서재의 커다란 책상 앞에 앉아서 기도를 하고 있다. 도둑1은 칼을 들고 어둠 속에서 나타난다.)<br>
 (The magician is sitting in front of a large desk in the library and praying. Thief 1 appears in the dark with a sword.)<br>
 <br><br>
@@ -157,9 +159,9 @@ M:The reason this book corroded your life is because you couldn't go back to the
 <br><br>
 마술사 : (눈이 휘둥그레지며) 대체 당신은 뭐 하는 사람이요?<br>
 M:(Rolling eyes) What the hell are you?<br>
-<br><br>
+<br><br><br>
 `과거의 베들레헴`<br>
-`Bethlehem of the past`<br>
+`Bethlehem of the past`<br><br>
 사람1 : 요즘 들어서 군인들이 더 자주 눈에 띄는 것 같구먼. 흉흉하게시리.<br>
 Person1:These days, it seems that the soldiers are more often seen. The atmosphere is terrible.<br>
 <br><br>
@@ -381,17 +383,17 @@ T2:Be sure to avoid the catastrophe of slaughter.<br>
 <br><br>
 `노인의 집 마당`<br>
 `the old man's yard`<br>
-<br><br>
+<br>
 (머리가 하얗고 허리가 다 꼬부라진 노인이 지팡이를 짚고 마당 의자에 앉아있다.)<br>
 (An old man with white hair and a twisted waist is sitting on a yard chair with a cane.)<br>
 <br><br>
 (내레이션)사람들은 나를 빈손에서 시작하여 정직과 성실로 성공을 거둔 상인이고 훌륭한 인격자라고 말한다. 하지만 젊은 시절의 나는 돈을 위해서라면 범죄도 마다하지 않을 사람이었고 내 첫 장사의 밑천은 어느 마술사의 집에서 비싼 책을 도둑질하여 마련한 것이었다. 그리고 그때 거기에는 나 같은 책도둑이 또 하나 있었다. 하지만 그자는 어리석게도 오직 낡은 책 하나만을 챙겼을 뿐이었다.<br>
 (Narration)People say I'm a merchant who starts with empty hands and succeeds with honesty and sincerity, and I'm a great personality.As a young man, however, I was a man who would not mind crime for money, and the source of my first business was a theft of expensive books from a magician's house. And then there was another book thief like me. But he was foolish enough to pack only one old book.<br>
 
-<br><br>
+<br><br><br>
 `에페소에 있는 마술사의 집`<br>
 `The Magician's House in Ephesus`<br>
-<br><br>
+<br>
 (마술사는 서재의 커다란 책상 앞에 앉아서 기도를 하고 있다. 도둑1은 칼을 들고 어둠 속에서 나타난다.)<br>
 (The magician is sitting in front of a large desk in the library, praying. Thief 1 appears from the dark with a sword.)<br>
 <br><br>
